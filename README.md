@@ -1,7 +1,7 @@
 
 # Valor Dólar App
 
-Aplicación web desarrollada con Vue 3 y Vite que muestra las cotizaciones de diferentes tipos de dólar en Argentina (oficial, blue, MEP, CCL, etc.) en tiempo real, consultando la API pública de dolarapi.com. Permite actualizar los valores manualmente y se refresca automáticamente cada minuto.
+Aplicación web desarrollada con Vue 3 y Vite que muestra las cotizaciones de diferentes tipos de dólar en Argentina (oficial, blue, MEP, CCL, etc.) en tiempo real, consultando la API pública de [DolarApi](https://dolarapi.com/docs/argentina/)), qué permite actualizar los valores de manera automatica con refresco cada 60s
 
 ## Tecnologías utilizadas
 - Vue 3
@@ -12,6 +12,12 @@ Aplicación web desarrollada con Vue 3 y Vite que muestra las cotizaciones de di
 - Consulta y muestra cotizaciones del dólar en Argentina.
 - Actualización automática y manual de los valores.
 - Interfaz responsive y fácil de usar.
+
+---
+# DolarApi
+ 
+API de Cotizaciones de Dólar y Monedas
+Sitio Web: https://dolarapi.com/docs/
 
 ---
 # Vue 3 + Vite
