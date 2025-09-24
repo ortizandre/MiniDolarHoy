@@ -16,8 +16,8 @@ Aplicación web desarrollada con Vue 3 y Vite que muestra las cotizaciones de di
 ---
 # DolarApi
  
-API de Cotizaciones de Dólar y Monedas
-Sitio Web: https://dolarapi.com/docs/
+API de Cotizaciones de Dólar y Monedas.
+- Sitio Web: https://dolarapi.com/docs/
 
 ---
 # Vue 3 + Vite
